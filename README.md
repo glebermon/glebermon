@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p style="display:flex">
     <a href="https://github.com/glebermon/employee_list">
-        <img width=132 src="https://github.com/glebermon/glebermon/blob/main/employeeList.gif" />
+        <img width=180 src="https://github.com/glebermon/glebermon/blob/main/employeeList.gif" />
     </a>
 
 </p>
