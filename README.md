@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### RECENTLY COMPLETED PROJECTS
+
+<br/>
+
+<p style="display:flex">
+    <a href="https://github.com/glebermon/employee_list">
+        <img width=132 src="https://github.com/glebermon/glebermon/blob/main/employeeList.gif" />
+    </a>
+
+</p>
+<br/>
