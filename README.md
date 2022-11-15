@@ -24,7 +24,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/glebermon/employee_list">
         <img width=180 src="https://github.com/glebermon/glebermon/blob/main/employeeList.gif" />
     </a>
-    
     <a href="https://github.com/glebermon/GMetronome">
         <img width=180 src="https://github.com/glebermon/glebermon/blob/main/GMetronome.gif" />
     </a>
