@@ -27,6 +27,9 @@ Here are some ideas to get you started:
     <a href="https://github.com/glebermon/GMetronome">
         <img width=180 src="https://github.com/glebermon/glebermon/blob/main/GMetronome.gif" />
     </a>
+    <a href="https://github.com/glebermon/LecturePlayer">
+        <img width=180 src="https://github.com/glebermon/glebermon/blob/main/LecturePlayer.gif" />
+    </a>
 
 </p>
 <br/>
